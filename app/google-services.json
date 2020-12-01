@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218478486663",
+    "firebase_url": "https://rich-access-284018.firebaseio.com",
+    "project_id": "rich-access-284018",
+    "storage_bucket": "rich-access-284018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218478486663:android:641245e545ddf7b5f64422",
+        "android_client_info": {
+          "package_name": "org.electromob.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218478486663-i0q6vb3u8t13dlfgqaora012h9udhg7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ccqL5AykbWF68Xt1vukPhY1kE48WA40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218478486663-i0q6vb3u8t13dlfgqaora012h9udhg7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
